@@ -54,7 +54,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/
 <a href="Twitch Adres girilcek" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="Discord Adres girilcek" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:Mail Girilcek"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="linkedin Hesabı girilcek" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="linkedin Hesabı girilcek" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a href="https://medium.com/nightsamuraisec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ejdermagon" height="30" width="40" /></a> 
 <details>	
   <summary><b>📊 My Github Stats</b></summary>
   <br />
